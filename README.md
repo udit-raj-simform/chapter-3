@@ -1,16 +1,17 @@
 # git_with_android
 
-A new Flutter project.
+A flutter proejct to practice git concepts with android studio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This proejct constitutes of commands from gui like:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. adding git as vcs
+2. git add & commit
+3. git commit
+4. new branch and checkout
+5. git push
+6. git pull
+7. git clone
+8. git merge 
+9. git rebase
