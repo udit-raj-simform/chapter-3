@@ -1,6 +1,6 @@
 # git_with_android
 
-A flutter proejct to practice git concepts with android studio
+A flutter project to practice git concepts with android studio
 
 ## Getting Started
 
