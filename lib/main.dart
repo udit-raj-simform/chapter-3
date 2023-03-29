@@ -11,7 +11,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Git With KK Android Studio Pro Bro Bhai",
+      title: "Git With Temp Android Studio Pro Bro Bhai",
       theme: ThemeData(useMaterial3: true),
       home: const Home(),
     );
